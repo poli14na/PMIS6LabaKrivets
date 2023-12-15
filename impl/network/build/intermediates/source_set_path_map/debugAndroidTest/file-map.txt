@@ -1,0 +1,9 @@
+com.pmorozova.movies.test.network-core-1.12.0-0 C:\Users\miche\.gradle\caches\transforms-3\0897784f5b07ded99a28c255a8f7046c\transformed\core-1.12.0\res
+com.pmorozova.movies.test.network-lifecycle-runtime-2.3.1-1 C:\Users\miche\.gradle\caches\transforms-3\1ffa4bd74a0a7d1b4a213e9b22427e1a\transformed\lifecycle-runtime-2.3.1\res
+com.pmorozova.movies.test.network-core-ktx-1.12.0-2 C:\Users\miche\.gradle\caches\transforms-3\8c10d8f9858a8bfbddbb2b0f31c9c8e3\transformed\core-ktx-1.12.0\res
+com.pmorozova.movies.test.network-annotation-experimental-1.3.0-3 C:\Users\miche\.gradle\caches\transforms-3\c86db3d230b7dc348b29a07a77bd9248\transformed\annotation-experimental-1.3.0\res
+com.pmorozova.movies.test.network-androidTest-4 E:\miche\Documents\StudioProjects\Morozova\impl\network\build\generated\res\resValues\androidTest\debug
+com.pmorozova.movies.test.network-mergeDebugAndroidTestResources-5 E:\miche\Documents\StudioProjects\Morozova\impl\network\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pmorozova.movies.test.network-mergeDebugAndroidTestResources-6 E:\miche\Documents\StudioProjects\Morozova\impl\network\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pmorozova.movies.test.network-merged_res-7 E:\miche\Documents\StudioProjects\Morozova\impl\network\build\intermediates\merged_res\debugAndroidTest
+com.pmorozova.movies.test.network-packaged_res-8 E:\miche\Documents\StudioProjects\Morozova\impl\network\build\intermediates\packaged_res\debug
